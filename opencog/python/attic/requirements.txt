@@ -13,3 +13,4 @@ flask-cors
 mock
 six
 graphviz
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
